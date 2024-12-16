@@ -6,3 +6,4 @@
 
 > ### Atualizações realizadas no VS Code:
 > * Texto adicionado pelo usuário **ErickFSilva**
+> * Texto adicionado pelo usuário **ErickFSilvaProg** através do fork com o usuário *ErickFSilva* 
